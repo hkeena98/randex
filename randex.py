@@ -13,7 +13,6 @@ import secrets as sec
 #Imports Advanced Python Scheduler
 from apscheduler.schedulers.blocking import BlockingScheduler
 
-
 """
 Function: randomize_vpn()
 Description: Primary Function to Randomize and Run Expressvpn Connections on a Timed Basis
